@@ -6,3 +6,5 @@ LogicChain is an intelligent reasoning agent designed to enhance logical reasoni
 ## Overview
 
 Recent advancements in LLMs have shown great potential in logical reasoning, but pure LLM approaches struggle with complex deductive tasks. LogicChain addresses this by acting as an intermediary, translating natural language into symbolic representations that are compatible with high-performance symbolic solvers like **Z3**. This hybrid approach not only increases accuracy but also makes complex reasoning more tractable.
+
+There are still pieces of LogicChain that I am actively working on, as well as other components that I cannot make public at this time.
