@@ -1,5 +1,5 @@
 
-# LogiChain Agent
+# LogiChain
 
 LogicChain is an intelligent reasoning agent designed to enhance logical reasoning tasks by integrating Large Language Models (LLMs) with symbolic solvers. By translating natural language statements into symbolic logic and leveraging external solvers, LogicChain pushes the boundaries of deductive reasoning, setting a new standard for accuracy and efficiency.
 
